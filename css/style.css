@@ -892,6 +892,7 @@ body {
   text-align: left;
   margin-top: 0;
   position: absolute;
+  left: 8px;
   /* or 19px */
   bottom: 0%;
   color: #EF4824;
